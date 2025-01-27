@@ -22,6 +22,7 @@ namespace MyFirstProgram // Namespace declaration
         }
     }
 }
+```
 
 ### Explanation of the Components
 
